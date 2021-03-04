@@ -1,2 +1,2 @@
-# bueckle-dissertation-supporting-information
- Supporting Information for Andreas Bueckle's dissertation
+# Supporting Information for Andreas Bueckle's dissertation
+ 
