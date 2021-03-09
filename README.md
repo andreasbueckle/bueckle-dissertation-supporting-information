@@ -38,4 +38,4 @@ Thank you for visiting this repo with Supporting Information (SI) for my dissert
     * Link and brush: https://iu.mediaspace.kaltura.com/media/t/1_zzptdr65
 * Code (see [code](https://github.com/andreasbueckle/bueckle-dissertation-supporting-information/tree/main/code) folder):
     * Highlight.cs
-        * BrushAndLink.cs
+    * BrushAndLink.cs
