@@ -25,7 +25,7 @@ Thank you for visiting this repo with Supporting Information (SI) for my dissert
 * Videos
     * Filter: https://iu.mediaspace.kaltura.com/media/t/1_uo9z4wsq 
     * Animate/replay: https://iu.mediaspace.kaltura.com/media/t/1_rnsz9rj9 
-* Code (see code folder):
+* Code (see [code](https://github.com/andreasbueckle/bueckle-dissertation-supporting-information/tree/main/code) folder):
     * BuildTrajectory.cs
     * ToggleEventHandler.cs
     * ToggleListener.cs
@@ -36,6 +36,6 @@ Thank you for visiting this repo with Supporting Information (SI) for my dissert
 ## Technical walkthrough for Luddy VR Reflective study:
 * Videos
     * Link and brush: https://iu.mediaspace.kaltura.com/media/t/1_zzptdr65
-* Code (see code folder):
+* Code (see [code](https://github.com/andreasbueckle/bueckle-dissertation-supporting-information/tree/main/code) folder):
     * Highlight.cs
         * BrushAndLink.cs
