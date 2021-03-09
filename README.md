@@ -21,3 +21,21 @@ Thank you for visiting this repo with Supporting Information (SI) for my dissert
 1. Luddy VR Navigation methods: https://iu.mediaspace.kaltura.com/media/t/1_pinvve8z
 2. Luddy VR Reflective phase: https://iu.mediaspace.kaltura.com/media/t/1_f7zujy1i
  
+## Technical walkthrough for RUI Reflective study:
+    * Videos
+        * Filter: https://iu.mediaspace.kaltura.com/media/t/1_uo9z4wsq 
+        * Animate/replay: https://iu.mediaspace.kaltura.com/media/t/1_rnsz9rj9 
+    * Code (see code folder):
+        * BuildTrajectory.cs
+        * ToggleEventHandler.cs
+        * ToggleListener.cs
+        * Logger.cs
+        * GetUserInput.cs
+        * TimeControl.cs
+   
+## Technical walkthrough for Luddy VR Reflective study:
+    * Videos
+        * Link and brush: https://iu.mediaspace.kaltura.com/media/t/1_zzptdr65
+    * Code (see code folder):
+        * Highlight.cs
+        * BrushAndLink.cs
