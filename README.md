@@ -17,7 +17,7 @@ Thank you for visiting this repo with Supporting Information (SI) for my dissert
 1. Reflective phase VR Tabletop: https://iu.mediaspace.kaltura.com/media/t/1_l4o8nmj2
 2. Reflective phase VR Standup: https://iu.mediaspace.kaltura.com/media/t/1_dfmq1ovo
 
-## Video demos of the three setups used in the Luddy VR study (user study 3): 
+## Video demos of the implementations of the Reflective phase in the Luddy VR study (user study 3): 
 1. Luddy VR Navigation methods: https://iu.mediaspace.kaltura.com/media/t/1_pinvve8z
 2. Luddy VR Reflective phase: https://iu.mediaspace.kaltura.com/media/t/1_f7zujy1i
  
